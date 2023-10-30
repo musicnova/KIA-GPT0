@@ -21,6 +21,9 @@ https://colab.research.google.com/drive/1wLZ-SfbOnHFrG7YSkX50LrMo0yBrCI6Y?usp=sh
 
 
 
+**Таблица для тестирования базы v2 с роутерами:**
+https://docs.google.com/spreadsheets/d/1ewjENXCLwfmzGA9FFTqb6lcg4Ob9N505Lg-4H8oQvoI/edit?usp=sharing
+
 **База знаний для роутинга V2**	
 https://github.com/TasksAndreySorokin/KIA-GPT1/tree/routing_prompt/knowledge/knowledge_for_router
 
