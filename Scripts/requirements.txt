@@ -14,4 +14,4 @@ tika==2.6.0
 pyaspeller==1.2.0
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
-dotenv==0.0.5
+qdrant_client==1.6.4
