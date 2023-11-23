@@ -1,0 +1,4 @@
+# openai.proxy = 'http://address:port'
+
+openai.api_key = "OPENAI_API_KEY"
+openai.proxy = {"http": "<PROXY>", "https": "<PROXY>"}
