@@ -6,9 +6,11 @@ https://docs.google.com/spreadsheets/d/1dlzmaiKBX8ZxIc-OM9XUrv2vkQVgY1Gs5SYPm9ZZ
 **Новое A/B Тестирование:** 
 https://docs.google.com/spreadsheets/d/1hIrPZBFfZHvstDIBv8CJsCsoXlLQ2NLldybhOb11-oc/edit
 
+**Техническое задание:** 
+https://docs.google.com/document/d/1xyBE0mqFN1GHkV_XQv0ysI0N4f0aqsdXpGR2NRTZyiM/edit?usp=sharing
 
 **База знаний** 
-knowledge/database.txt
+knowledge/knowledge_for_router/database.md
 
 **Коллаб для использования** 
 https://colab.research.google.com/drive/1sY-PdWx6TnzMvQDI5wxegFt8USWlDiN3?usp=sharing
