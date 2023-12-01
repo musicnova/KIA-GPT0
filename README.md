@@ -9,14 +9,14 @@ https://github.com/terrainternship/KIA-GPT
 **Техническое задание:** 
 https://docs.google.com/document/d/1xyBE0mqFN1GHkV_XQv0ysI0N4f0aqsdXpGR2NRTZyiM/edit?usp=sharing
 
-**Сбор знаний** 
+**Сбор знаний:** 
 https://github.com/musicnova/KIA-GPT0/blob/main/Scripts/main.py
 
-**Коллаб для использования** 
+**Коллаб тестирования:** 
 https://github.com/musicnova/KIA-GPT0/blob/main/knowledge/V30.ipynb
 
-**Памятка по работе в GIT**
-https://github.com/terrainternship/KIA-GPT/wiki/GIT
+**Wiki проекта:**
+https://github.com/terrainternship/KIA-GPT/wiki
 
 **Старое тестирование:** 
 https://docs.google.com/spreadsheets/d/1dlzmaiKBX8ZxIc-OM9XUrv2vkQVgY1Gs5SYPm9ZZQ8s/edit#gid=1214543959
