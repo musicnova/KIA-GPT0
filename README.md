@@ -4,7 +4,7 @@
 https://ai-hunter.ru/kia
 
 **Финальное решение:**
-https://github.com/terrainternship/KIA-GPT
+https://github.com/musicnova/KIA-GPT0/tree/main/Solutions
 
 **Техническое задание:** 
 https://docs.google.com/document/d/1xyBE0mqFN1GHkV_XQv0ysI0N4f0aqsdXpGR2NRTZyiM/edit?usp=sharing
@@ -16,7 +16,7 @@ https://github.com/musicnova/KIA-GPT0/blob/main/Scripts/main.py
 https://github.com/musicnova/KIA-GPT0/blob/main/knowledge/V30.ipynb
 
 **Wiki проекта:**
-https://github.com/terrainternship/KIA-GPT/wiki
+https://github.com/musicnova/KIA-GPT0/wiki
 
 **Старое тестирование:** 
 https://docs.google.com/spreadsheets/d/1dlzmaiKBX8ZxIc-OM9XUrv2vkQVgY1Gs5SYPm9ZZQ8s/edit#gid=1214543959
